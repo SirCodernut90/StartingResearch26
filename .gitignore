@@ -1,0 +1,4 @@
+*.root
+.DS_Store
+GLUEX_ROOT_TUTORIAL/RNG/RNGProgram
+GLUEX_ROOT_TUTORIAL/RNG/AcceptReject
